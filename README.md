@@ -72,11 +72,11 @@ Make the page more functional by making it multi-page.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - Working on it!
+- LinkedIn - [Melody Hall](https://www.linkedin.com/in/melody-hall)
+- Youtube - [Yay It's Melody](https://www.youtube.com/channel/UCYekyhEz40BCwegxKtnaSBw)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
